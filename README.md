@@ -26,11 +26,9 @@ Projeto criado com intuito de estudo do HTML. Desenvolvido no curso **Desenvolvi
 # 📁 Como baixar o projeto
 
 ```bash
-
     #Clonar repositorio
     $ git clone https://github.com/dkzord/html_Universidade
 
     #Entrar na pasta
     $ cd html_Universidade
-
 ```
